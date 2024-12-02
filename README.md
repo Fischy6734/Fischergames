@@ -1,4 +1,1 @@
-This is a games site with tuns on games to chuse from
-
-
-New → Added list view for the games
+Go to GameBalls https://fischy6734.github.io/Gameballs/ this one is not working
